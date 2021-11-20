@@ -2,25 +2,23 @@
 
 
 ### Company Background (Scenario):
-Electronics company (EC) is Saudi Arabia-based on sales different types of electronics that has been exported from Amazon such as Apple Air pods Headphones, Batteries, USB-C Charging Cable and laptops etc..
+Electronics company (EC) is Saudi Arabia-company based on sales different types of electronics such as Apple Air pods Headphones, Batteries, USB-C Charging Cable and laptops etc..
 
 ### Motivation:
-E company want to do sales analytics for forecasting future sales performance and for improving sales.
+Electronic company want to do analyze sales performance for improving sales in one month.
 
-### Target:
-A target market analysis is an assessment of how your product or service fits into a specific market and where it will gain the most.
 
 ### Questions:
-Q1: What was the best year for sales?
+Q1: What product sold the most?
 
-Q2: What product sold the most?
+Q2: At any day seles increased?
 
-Q3: What City had the highest number of sales?
+Q3: what day have the highest earning in this month?
 
 ### Data Description:
 The data will be used in this project is provided by kaggle. The Sales Product Data provided in .CSV format. it contains of 17539 rows and set of columns:
 
-Order ID - An Order ID is the number system that Amazon uses exclusively to keep track of orders.
+Order ID - An Order ID is the number system that uses to keep track of orders(unique number).
 
 Product - The product that have been sold.
 
@@ -30,7 +28,7 @@ Price Each - The price of each product.
 
 Order Date - This is the date the customer is requesting the order be shipped.
 
-Purchase Address – is shipping address prepared by the buyer,often through a purchasing department.
+Purchase Address –is shipping address.
 
 ### Tools:
 1-SQL:
