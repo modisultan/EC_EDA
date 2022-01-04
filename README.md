@@ -1,4 +1,4 @@
-# PRODUCT SALES FOR E COMPANY
+# PRODUCT SALES FOR ELECTONICS COMPANY
 
 
 ### Company Background (Scenario):
