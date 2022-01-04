@@ -1,4 +1,4 @@
-# Product sales for Electronic company
+# Product sales for electronic company
 
 
 
